@@ -3,6 +3,6 @@ import 'package:flutter/rendering.dart';
 import 'package:flutterweb/screens/config/configPage.dart';
 
 void main() {
-  debugPaintSizeEnabled = true;
+//  debugPaintSizeEnabled = true;
   runApp(ConfigApp());
 }
